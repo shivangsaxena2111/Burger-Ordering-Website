@@ -12,8 +12,6 @@ This project is a fully responsive burger ordering website designed to provide u
 
 You can view a live demo of the Burger Ordering Website here: [Live Demo](http://localhost:3000/)
 
-*Note: Replace the `#` in the link above with the actual URL of your live demo if available.*
-
 ## Features
 
 - **Responsive Design:** Ensures a seamless experience across all devices.
